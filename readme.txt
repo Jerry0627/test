@@ -10,3 +10,6 @@ Creating a new branch is quick AND simple.
 Test conflict fix 1.
 master.
 conflict2.
+
+master2.
+
