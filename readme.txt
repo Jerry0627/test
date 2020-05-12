@@ -8,3 +8,5 @@ Creating a new branch is quick and simple.
 DFADJJJA.
 Creating a new branch is quick AND simple.
 Test conflict fix 1.
+
+conflict2.
